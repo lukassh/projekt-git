@@ -1,7 +1,7 @@
 {
   "name": "Zadanie-1-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://lukassh.github.io/projekt-git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,15 @@
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.26.3",
+    "globstar": "^1.0.0",
     "nu-html-checker": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukassh/projekt-git.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukassh/projekt-git/issues"
+  },
+  "homepage": "https://github.com/lukassh/projekt-git#readme"
 }
