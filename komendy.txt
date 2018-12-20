@@ -1,2 +1,3 @@
 node_modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
-node_modules/.bin/globstar | node_modules/.bin/cli *.html
+node_modules/.bin/nu-html-checker *.html
+
