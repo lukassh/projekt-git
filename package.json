@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/lukassh/projekt-git/issues"
   },
-  "homepage": "https://github.com/lukassh/projekt-git#readme"
+  "homepage": "https://github.com/lukassh/projekt-git#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3",
+    "nu-html-checker": "^0.1.0"
+  }
 }
