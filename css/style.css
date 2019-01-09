@@ -25,3 +25,18 @@ h1 {
 	font-style: italic;
 
 }
+
+footer {
+	margin: 0 auto;
+	height: 50px;
+	max-width: 1000px;
+	width: 100%;
+	background: darkgrey;
+	border-radius: 10px;
+	text-align: center;
+}
+footer p {
+	padding-top: 10px;
+	color: #fff;
+	font-size: 18px;
+}
